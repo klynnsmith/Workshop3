@@ -1,0 +1,26 @@
+body {
+  padding-top: 60px;
+}
+
+.panel-footer{
+  margin-left: -15px;
+  margin-right: -15px;
+  margin-top: 5px;
+  margin-bottom: -15px;
+}
+
+.date-margins{
+  margin-left: 15px;
+}
+
+.search-round{
+  border-radius: 15px;
+}
+
+
+
+.glyph-color{
+  color:#808080;
+  padding-top: 15px;
+  padding-right: 50px;
+}
